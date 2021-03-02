@@ -1,0 +1,14 @@
+{
+    "name": "clearswitch/httptest",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "daikai",
+            "email": "903221818@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
